@@ -8,7 +8,19 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-regular-svg-icons": "^5.7.2",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/vue-fontawesome": "^0.1.5",
+    "@jaames/iro": "^4.2.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.14",
+    "mqtt": "^2.18.8",
+    "vue": "^2.6.6",
+    "vue-color": "^2.7.0",
+    "vue-iro-color-picker": "^1.0.2",
+    "vue-mqtt": "^2.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
@@ -17,6 +29,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
+    "vue-color-picker-board": "^1.1.1",
     "vue-template-compiler": "^2.5.21"
   },
   "eslintConfig": {
